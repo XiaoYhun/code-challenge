@@ -1,7 +1,6 @@
 import { Button, Modal, ModalBody, ModalContent, ModalFooter, ModalHeader } from "@nextui-org/react";
 import useSwapFormState from "../hooks/useSwapFormState";
 import { ArrowDown } from "lucide-react";
-import { useState } from "react";
 import { DotLottieReact } from "@lottiefiles/dotlottie-react";
 import useSwapActions from "../hooks/useSwapActions";
 
